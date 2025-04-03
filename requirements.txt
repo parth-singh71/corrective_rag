@@ -1,0 +1,16 @@
+duckduckgo_search
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+langgraph-sdk
+langsmith
+wikibase-rest-api-client
+wikipedia
+mediawikiapi
+pypdf
