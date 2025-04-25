@@ -33,8 +33,8 @@ This project was developed as a Proof of Concept (POC), integrating key principl
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:parth-singh71/tripai_backend.git
-cd tripai_backend
+git clone git@github.com/parth-singh71/corrective_rag.git
+cd corrective_rag
 ```
 
 ### 2. Create & Activate Virtual Environment
